@@ -1,0 +1,90 @@
+
+bg.jpg
+size: 702,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_glow_vfx_a_screen
+  rotate: false
+  xy: 2, 204
+  size: 270, 199
+  orig: 270, 199
+  offset: 0, 0
+  index: -1
+bg_glow_vfx_b_screen
+  rotate: false
+  xy: 2, 3
+  size: 270, 199
+  orig: 270, 199
+  offset: 0, 0
+  index: -1
+bg_glow_vfx_c_screen
+  rotate: false
+  xy: 274, 204
+  size: 270, 199
+  orig: 270, 199
+  offset: 0, 0
+  index: -1
+bg_glow_vfx_d_screen
+  rotate: false
+  xy: 274, 3
+  size: 270, 199
+  orig: 270, 199
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_a_screen
+  rotate: false
+  xy: 612, 61
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_b_screen
+  rotate: false
+  xy: 652, 292
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_c_screen
+  rotate: false
+  xy: 546, 181
+  size: 74, 118
+  orig: 74, 118
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_d_screen
+  rotate: true
+  xy: 546, 2
+  size: 56, 91
+  orig: 56, 91
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_e_screen
+  rotate: true
+  xy: 612, 109
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_f_screen
+  rotate: false
+  xy: 546, 301
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_g_screen
+  rotate: false
+  xy: 622, 201
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+bg_lights_vfx_h_screen
+  rotate: false
+  xy: 546, 60
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1

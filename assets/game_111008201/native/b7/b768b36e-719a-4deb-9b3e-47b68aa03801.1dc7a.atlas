@@ -1,0 +1,237 @@
+
+speed.jpg
+size: 867,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_infoglow_a_add
+  rotate: false
+  xy: 484, 9
+  size: 270, 180
+  orig: 270, 180
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_a_add
+  rotate: false
+  xy: 756, 137
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_b_add
+  rotate: false
+  xy: 842, 304
+  size: 23, 66
+  orig: 23, 66
+  offset: 0, 0
+  index: -1
+bg_logo_vfx_c_add
+  rotate: false
+  xy: 816, 304
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+flow_line/ps_line_00
+  rotate: false
+  xy: 2, 13
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_01
+  rotate: false
+  xy: 148, 31
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_02
+  rotate: false
+  xy: 313, 100
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_03
+  rotate: true
+  xy: 756, 77
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_04
+  rotate: true
+  xy: 816, 244
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_05
+  rotate: false
+  xy: 2, 2
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_06
+  rotate: false
+  xy: 62, 13
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_07
+  rotate: false
+  xy: 208, 31
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_08
+  rotate: false
+  xy: 373, 100
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_09
+  rotate: true
+  xy: 756, 17
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_10
+  rotate: true
+  xy: 767, 77
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_11
+  rotate: true
+  xy: 827, 244
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_12
+  rotate: false
+  xy: 62, 2
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_13
+  rotate: false
+  xy: 268, 31
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_14
+  rotate: true
+  xy: 767, 17
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_15
+  rotate: true
+  xy: 778, 77
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_16
+  rotate: true
+  xy: 838, 244
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_17
+  rotate: false
+  xy: 328, 31
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_18
+  rotate: true
+  xy: 778, 17
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_19
+  rotate: true
+  xy: 789, 77
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_20
+  rotate: true
+  xy: 849, 244
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+flow_line/ps_line_21
+  rotate: true
+  xy: 789, 17
+  size: 58, 9
+  orig: 64, 14
+  offset: 3, 3
+  index: -1
+fs_vfx_a_01_add
+  rotate: false
+  xy: 313, 111
+  size: 169, 401
+  orig: 169, 401
+  offset: 0, 0
+  index: -1
+fs_vfx_a_02_add
+  rotate: false
+  xy: 484, 191
+  size: 169, 321
+  orig: 169, 321
+  offset: 0, 0
+  index: -1
+fs_vfx_d_add
+  rotate: false
+  xy: 2, 24
+  size: 144, 488
+  orig: 144, 488
+  offset: 0, 0
+  index: -1
+ua_vfx_a_01_add
+  rotate: false
+  xy: 148, 99
+  size: 163, 413
+  orig: 163, 413
+  offset: 0, 0
+  index: -1
+ua_vfx_a_02_add
+  rotate: false
+  xy: 655, 192
+  size: 159, 320
+  orig: 159, 320
+  offset: 0, 0
+  index: -1
+ua_vfx_a_03_add
+  rotate: true
+  xy: 148, 42
+  size: 55, 296
+  orig: 55, 296
+  offset: 0, 0
+  index: -1
+ua_vfx_b_add
+  rotate: false
+  xy: 816, 372
+  size: 49, 140
+  orig: 49, 140
+  offset: 0, 0
+  index: -1
